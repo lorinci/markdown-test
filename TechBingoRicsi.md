@@ -8,7 +8,7 @@ _My solution:_ Web app but I don't know why
 **2. Time tracking system 2.**
 _Description:_ A tool for a company, where users (employees of the company) can log how much did they work on different tasks, while they were either on- or off-site (either at home office, or at clients). You can safely assume that they have internet access at all times.
 
-_My solution:_
+_My solution:_ Web App
 
 **3. Precision agriculture sensor system**
 _Description:_ A farmer wants to know the humidity on each acres of her farm which is a contiguous area of one km^2. She would like to see the measurements on her ipad.
