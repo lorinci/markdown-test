@@ -13,7 +13,7 @@ _My solution:_
 **3. Precision agriculture sensor system**
 _Description:_ A farmer wants to know the humidity on each acres of her farm which is a contiguous area of one km^2. She would like to see the measurements on her ipad.
 
-_My solution:_
+_My solution:_ Application, with sensors built in the farm. App because it can work offline, the sensors are sending the data to the app. Mobile Web App because the sensors need internet connection to send the humidity data.  Maybe PWA for sending push notifications.
 
 **4. A 3D-heavy FPS game**
 _Description:_ A 3D-heavy, single player FPS game, where your goal is to kill the unicorn king.
