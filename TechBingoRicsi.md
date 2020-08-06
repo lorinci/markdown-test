@@ -18,7 +18,7 @@ _My solution:_ Application, with sensors built in the farm. App because it can w
 **4. A 3D-heavy FPS game**
 _Description:_ A 3D-heavy, single player FPS game, where your goal is to kill the unicorn king.
 
-_My solution:_ Native App
+_My solution:_ Native App since they are a better option for games
 
 **5. Notes app**
 _Description:_ Software which is capable of saving your notes while you're on the go. It should be able to process speech to text, and handdrawing.
@@ -31,14 +31,15 @@ _My solution:_ Progressive Web App like Gmail, which pretty much does the same a
 **6. Smart mirror**
 _Description:_ An augmented reality application, with what you can try on virtually designed clothes and jewellery.
 
-_My solution:_
+_My solution:_ Mobile App, mert kamera, ruha-, ékszer dizájn és a kettő együtt (=ruhák, ékszerek felpróbálása) mehet internetkapcsolat nélkül is + personalization-kor van értelme a Mobile App-nek
+
 
 **7. A blog**
 _Description:_ A blog which can be edited from any device (given the right screen size, and the adequate peripherials) on-line.
 
-_My solution:_
+_My solution:_ Web App like Google Docs
 
 **8. Mobile version of an existing marketplace**
 _Description:_ There's an online marketplace, built using PHP, with millions of products, a plethora of shopping and delivery modes, and it is being developed for 10 years. Now the management wants to build a mobile version.
 
-_My solution:_
+_My solution:_ Responsive Mobile website because of shareability, reach, upgradability. App nem lenne jó ötlet, mert több millió termékhez óriási méretű alkalmazásra lenne szükség és ennek a verzióit lefejleszteni a különböző operációs rendszerekre nagyon pénz- és időigényes.
