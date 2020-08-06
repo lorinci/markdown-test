@@ -18,14 +18,15 @@ _My solution:_ Application, with sensors built in the farm. App because it can w
 **4. A 3D-heavy FPS game**
 _Description:_ A 3D-heavy, single player FPS game, where your goal is to kill the unicorn king.
 
-_My solution:_
+_My solution:_ Native App
 
 **5. Notes app**
 _Description:_ Software which is capable of saving your notes while you're on the go. It should be able to process speech to text, and handdrawing.
 
 When it comes online, it should be able to sync your notes across all your devices.
 
-_My solution:_
+_My solution:_ Progressive Web App like Gmail, which pretty much does the same already. It needs to be progrssive because it needs the microphone of the device. A handwriting function must be built in as well.
+
 
 **6. Smart mirror**
 _Description:_ An augmented reality application, with what you can try on virtually designed clothes and jewellery.
