@@ -23,7 +23,7 @@ _Description:_ A farmer wants to know the humidity on each acres of her farm whi
 
 _Technology:_ Application, with sensors built in the farm. App because it can work offline, the sensors are sending the data to the app. Mobile Web App because the sensors need internet connection to send the humidity data.  Maybe PWA for sending push notifications.
 
-_Complexity:_ 10
+_Complexity:_ 7
 
 
 **4. A 3D-heavy FPS game**
@@ -49,7 +49,7 @@ _Description:_ An augmented reality application, with what you can try on virtua
 
 _Technology:_ Mobile App, mert kamera, ruha-, ékszer dizájn és a kettő együtt (=ruhák, ékszerek felpróbálása) mehet internetkapcsolat nélkül is + personalization-kor van értelme a Mobile App-nek
 
-_Complexity:_ 7
+_Complexity:_ 10
 
 
 **7. A blog**
@@ -65,4 +65,4 @@ _Description:_ There's an online marketplace, built using PHP, with millions of 
 
 _Technology:_ Responsive Mobile website because of shareability, reach, upgradability. App nem lenne jó ötlet, mert több millió termékhez óriási méretű alkalmazásra lenne szükség és ennek a verzióit lefejleszteni a különböző operációs rendszerekre nagyon pénz- és időigényes.
 
-_Complexity:_ 6
+_Complexity:_ 9
