@@ -1,6 +1,6 @@
 **PROJECTS**
 
-_Below you find the description, a recommended technology and a relative complexity (from 1 to 10, where 1 is the simplest and 10 is the most complex) for each project. 
+_Below you find the description, a recommended technology and a relative complexity (from 1 to 10, where 1 is the simplest and 10 is the most complex) for each project._
 
 **1. Time tracking system 1.**
 _Description:_ A tool for a company, where users (employees of the company) can log how much did they work on different tasks, while they were on-site in the office. All employees have a dedicated computer.
