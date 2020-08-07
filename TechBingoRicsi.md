@@ -5,7 +5,7 @@ _Below you find the description, a recommended technology and a relative complex
 **1. Time tracking system 1.**
 _Description:_ A tool for a company, where users (employees of the company) can log how much did they work on different tasks, while they were on-site in the office. All employees have a dedicated computer.
 
-_Technology:_
+_Technology:_ A simmple website or web app for the colleagues
 
 _Complexity:_ 1
 
@@ -13,7 +13,7 @@ _Complexity:_ 1
 **2. Time tracking system 2.**
 _Description:_ A tool for a company, where users (employees of the company) can log how much did they work on different tasks, while they were either on- or off-site (either at home office, or at clients). You can safely assume that they have internet access at all times.
 
-_Technology:_
+_Technology:_ Same as the first one, with a few more funcitons.
 
 _Complexity:_ 2
 
@@ -21,7 +21,7 @@ _Complexity:_ 2
 **3. Precision agriculture sensor system**
 _Description:_ A farmer wants to know the humidity on each acres of her farm which is a contiguous area of one km^2. She would like to see the measurements on her ipad.
 
-_Technology:_ Application, with sensors built in the farm. App because it can work offline, the sensors are sending the data to the app. Mobile Web App because the sensors need internet connection to send the humidity data.  Maybe PWA for sending push notifications.
+_Technology:_ I couldn't decide it. Application, with sensors built in the farm. App because it can work offline, the sensors are sending the data to the app. Mobile Web App because the sensors need internet connection to send the humidity data.  Maybe PWA for sending push notifications.
 
 _Complexity:_ 7
 
